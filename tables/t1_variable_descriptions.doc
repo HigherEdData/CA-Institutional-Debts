@@ -1,0 +1,132 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\b\qc\line Table 1: Variable Descriptions }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx1320
+\fs20 \pard\intbl \ql { name}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs \cellx5320
+\fs20 \pard\intbl \ql { varlab}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { unitid}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Institutional Number}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { instnm}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Institutions Name}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { fips}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {FIPS State Code}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { iclevel}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Institutions Program Time-Lines}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { control}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Classification of Institutional Operation}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { hloffer}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Highest Level of Offering}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { ccbasic}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Carnegie Classification of Institution}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { eftotlt}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Total Number of Students Enrolled for Fall}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { efbkaat}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Total Number of Black Students}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { efwhitt}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Total Number of White Students}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { pcteftotlt}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Percent of Students}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { pctefbkaat}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Percent of Black Students}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { pctefwhitt}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Percent of White Students}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { collegelvl1}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {4 Year College}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { collegelvl2}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {2 Year College}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { collegelvl3}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Less Than 2 Year College}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { collegeown1}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Public}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { collegeown2}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Private Not for Profit}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1320
+\fs20 \pard\intbl \ql { collegeown3}\cell
+\cellx5320
+\fs20 \pard\intbl \ql {Private for Profit}\cell
+\row}
+
+
+\writepositionforappend
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx5320 \cell
+\row}}}
