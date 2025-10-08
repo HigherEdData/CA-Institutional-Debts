@@ -1,4 +1,88 @@
-block_use,Statewide Total,Allan Hancock Joint,Antelope Valley,Barstow,Butte-Glenn,Cabrillo,Calbright,Cerritos,"Chabot-LasPositas",Chaffey,Citrus,Coast,Compton,Contra Costa,"CopperMountain",Desert,El Camino,Feather River,Foothill-De Anza,Gavilan,Glendale,"Grossmont-Cuyamaca",Hartnell,Imperial,Kern,Lake Tahoe,Lassen,Long Beach,Los Angeles,Los Rios,Marin,Mendocino-Lake,Merced,MiraCosta,"MontereyPeninsula",Mt. San Antonio,Mt. San Jacinto,Napa Valley,"North OrangeCounty",Ohlone,Palo Verde,Palomar,Pasadena,Peralta,"RanchoSantiago",Redwoods,Rio Hondo,Riverside,"SanBernardino",San Diego,San Francisco,San Joaquin Delta,"San Jose-Evergreen","San LuisObispoCounty","San MateoCounty",Santa Barbara,Santa Clarita,Santa Monica,Sequoias,"Shasta-Tehama-Trinity Joint",Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Shasta-,South Orange Category Subcategory,Sierra Joint,Siskiyous Joint,Solano County,Sonoma,Unnamed: 0,Sierra Joint,Siskiyous Joint,Solano County,"SonomaCounty","South OrangeCounty",Southwestern,State Center,Ventura County,Victor Valley,West Hills,West Kern,West Valley-Mission,Yosemite,Yuba
-Discharging unpaid fees,"$20,199,178",-,"2,331,678","250,969",-,"1,394,784",-,-,-,"1,593,156",-,"2,234,382",-,"386,919","594,402",-,-,-,-,-,"840,617",-,-,-,"18,381",-,"1,187",-,-,-,-,"15,568","8,655","1,699,486",-,-,"2,193,114",-,-,-,-,-,"368,655",-,-,-,"500,000",-,-,-,-,-,"1,692,004","15,444","406,295",-,-,-,"774,789","6,669",Remaining Unspent,-,"5,596,097",-,-,"956,728",-,Direct Emergency Grants to Students Learning Tools,-,-,-,-,-,"5,000,000",-,"850,000","2,938,980",-,-,276,-,"161,292",-,-,"1,967,208",-,-
-Total Expended,"$207,812,480","279,267","2,667,197","1,452,472","6,444,216","2,914,715",-,"258,956","5,102,324","1,671,095","5,597,362","4,862,216","1,244,774","5,690,003","654,579","862,992",-,"841,999","3,156,862","1,451,363","1,759,835","5,158,758","346,408","2,470,049","9,980,086","365,980","803,493","818,850","10,254,086","2,913,340","154,693","1,052,529","1,483,359","5,509,601","106,214","4,709,178","7,194,634","472,915","5,076,948","2,010,481","1,551,776","7,234,798","911,051","5,847,925","8,102,825","190,482","4,380,818","8,275,550","8,230,578","5,145,429","14,119","970,115","1,785,020","534,419","1,365,392","1,879,257","3,137,710","1,808,539","4,876,305","583,574",,,,,,,,Professional Development Opportunities for Faculty Professional development focused on culturally responsive,-,-,-,-,-,,,,,,"2,734,343","3,588,804","2,680,288","3,223,289","785,296","731,095","3,011,994","1,411,114","431,720"
-Total Expenditures and Encumbrances,"$403,306,926","5,151,904","5,825,633","1,518,489","6,857,648","6,966,951",-,"4,058,956","5,165,692","7,346,095","5,597,362","7,933,953","1,244,774","16,706,538","719,579","870,992",-,"1,231,351","3,397,795","1,451,363","6,826,530","8,206,561","3,304,307","2,470,049","14,167,212","1,222,000","835,247","830,081","53,277,982","14,421,758","154,693","1,428,070","6,434,563","5,991,932","264,039","5,061,728","7,194,634","2,419,504","10,682,922","2,522,460","1,551,776","7,234,798","1,124,654","5,847,925","8,894,148","190,482","7,040,512","9,119,501","8,501,009","6,110,784","14,119","3,731,544","1,785,020","1,976,823","9,302,538",,,,,,,,,,,,,,,,,,,,,,,,"8,857,063","4,225,274","2,879,388","4,000,251","1,589,297","731,095","6,802,861","9,554,739","431,720"
+district,Discharging unpaid fees,Total Expended,Total Expenditures and Encumbrances
+Statewide Total,"$20,199,178","$207,812,480","$403,306,926"
+Allan Hancock Joint,-,"279,267","5,151,904"
+Antelope Valley,"2,331,678","2,667,197","5,825,633"
+Barstow,"250,969","1,452,472","1,518,489"
+Butte-Glenn,-,"6,444,216","6,857,648"
+Cabrillo,"1,394,784","2,914,715","6,966,951"
+Calbright,-,-,-
+Cerritos,-,"258,956","4,058,956"
+"Chabot-LasPositas",-,"5,102,324","5,165,692"
+Chaffey,"1,593,156","1,671,095","7,346,095"
+Citrus,-,"5,597,362","5,597,362"
+Coast,"2,234,382","4,862,216","7,933,953"
+Compton,-,"1,244,774","1,244,774"
+Contra Costa,"386,919","5,690,003","16,706,538"
+"CopperMountain","594,402","654,579","719,579"
+Desert,-,"862,992","870,992"
+El Camino,-,-,-
+Feather River,-,"841,999","1,231,351"
+Foothill-De Anza,-,"3,156,862","3,397,795"
+Gavilan,-,"1,451,363","1,451,363"
+Glendale,"840,617","1,759,835","6,826,530"
+"Grossmont-Cuyamaca",-,"5,158,758","8,206,561"
+Hartnell,-,"346,408","3,304,307"
+Imperial,-,"2,470,049","2,470,049"
+Kern,"18,381","9,980,086","14,167,212"
+Lake Tahoe,-,"365,980","1,222,000"
+Lassen,"1,187","803,493","835,247"
+Long Beach,-,"818,850","830,081"
+Los Angeles,-,"10,254,086","53,277,982"
+Los Rios,-,"2,913,340","14,421,758"
+Marin,-,"154,693","154,693"
+Mendocino-Lake,"15,568","1,052,529","1,428,070"
+Merced,"8,655","1,483,359","6,434,563"
+MiraCosta,"1,699,486","5,509,601","5,991,932"
+"MontereyPeninsula",-,"106,214","264,039"
+Mt. San Antonio,-,"4,709,178","5,061,728"
+Mt. San Jacinto,"2,193,114","7,194,634","7,194,634"
+Napa Valley,-,"472,915","2,419,504"
+"North OrangeCounty",-,"5,076,948","10,682,922"
+Ohlone,-,"2,010,481","2,522,460"
+Palo Verde,-,"1,551,776","1,551,776"
+Palomar,-,"7,234,798","7,234,798"
+Pasadena,"368,655","911,051","1,124,654"
+Peralta,-,"5,847,925","5,847,925"
+"RanchoSantiago",-,"8,102,825","8,894,148"
+Redwoods,-,"190,482","190,482"
+Rio Hondo,"500,000","4,380,818","7,040,512"
+Riverside,-,"8,275,550","9,119,501"
+"SanBernardino",-,"8,230,578","8,501,009"
+San Diego,-,"5,145,429","6,110,784"
+San Francisco,-,"14,119","14,119"
+San Joaquin Delta,-,"970,115","3,731,544"
+"San Jose-Evergreen","1,692,004","1,785,020","1,785,020"
+"San LuisObispoCounty","15,444","534,419","1,976,823"
+"San MateoCounty","406,295","1,365,392","9,302,538"
+Santa Barbara,-,"1,879,257",
+Santa Clarita,-,"3,137,710",
+Santa Monica,-,"1,808,539",
+Sequoias,"774,789","4,876,305",
+"Shasta-Tehama-Trinity Joint","6,669","583,574",
+Unnamed: 0,Remaining Unspent,,
+Unnamed: 1,-,,
+Unnamed: 2,"5,596,097",,
+Unnamed: 3,-,,
+Unnamed: 4,-,,
+Unnamed: 5,"956,728",,
+Shasta-,-,,
+South Orange Category Subcategory,Direct Emergency Grants to Students Learning Tools,Professional Development Opportunities for Faculty Professional development focused on culturally responsive,
+Sierra Joint,-,-,
+Siskiyous Joint,-,-,
+Solano County,-,-,
+Sonoma,-,-,
+Unnamed: 0,-,-,
+Sierra Joint,"5,000,000",,
+Siskiyous Joint,-,,
+Solano County,"850,000",,
+"SonomaCounty","2,938,980",,
+"South OrangeCounty",-,,
+Southwestern,-,"2,734,343","8,857,063"
+State Center,276,"3,588,804","4,225,274"
+Ventura County,-,"2,680,288","2,879,388"
+Victor Valley,"161,292","3,223,289","4,000,251"
+West Hills,-,"785,296","1,589,297"
+West Kern,-,"731,095","731,095"
+West Valley-Mission,"1,967,208","3,011,994","6,802,861"
+Yosemite,-,"1,411,114","9,554,739"
+Yuba,-,"431,720","431,720"
